@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SessionDemo</string>
+    <string name="log_in">Log In</string>
+    <string name="name">Enter name</string>
+    <string name="password">Password</string>
+    <string name="please_enter_data">Please enter data</string>
+    <string name="logged_in_as">Logged in as </string>
+    <string name="result">Result</string>
+</resources>
